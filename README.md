@@ -1,4 +1,4 @@
-# NyayaSathi
+# Legal Agent
 
 This is a legal literacy platform built using React + TypeScript + Vite.
 
