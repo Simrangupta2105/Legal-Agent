@@ -249,7 +249,7 @@ import {
             Have questions, suggestions, or want to get involved?
           </p>
           <div className="max-w-md mx-auto">
-            <p className="mb-2">Email: <a href="mailto:info@nyayasathi.org" className="text-primary hover:underline">info@nyayasathi.org</a></p>
+            <p className="mb-2">Email: <a href="mailto:info@nyayasathi.org" className="text-primary hover:underline">info@legalagent.org</a></p>
             <p>Phone: +91 11 2345 6789</p>
           </div>
         </section>
